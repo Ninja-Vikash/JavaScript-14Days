@@ -1,18 +1,18 @@
 ##### JavaScript-14Days Challenge🏋️‍♂️
 # Getting Started🚀
 ## What's Inside🎁
-- [What is variable?]()
-- [Rules for nameing of a variable]()
-- [Code for data viewer]()
-- [Difference between var and let & const]()
-- [Data Types]()
-- [Operators]()
-    - [Arithmetic]()
-    - [Comparision]()
-    - [Assignment]()
-    - [Logical]()
-    - [Unary]()
-    - [Ternary]()
+- [What is variable?](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#what-is-variable)
+- [Rules for nameing of a variable](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#rules-for-naming-of-a-variable)
+- [Code for data viewer](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#01-project--details-viewer)
+- [Difference between var and let & const](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#difference-between-var-and-let--const)
+- [Data Types](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#data-types)
+- [Operators](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#operator)
+    - [Arithmetic](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#arithmetic-operator)
+    - [Comparision](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#comparision-operator)
+    - [Assignment](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#assignment-operator)
+    - [Logical](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#logical-operator)
+    - [Unary](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#unary-operator)
+    - [Ternary](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#ternary-operator)
 
 ***
 ### What is variable?
@@ -76,7 +76,7 @@ console.log(myName)                 // Vikash Kumar
         console.log(myName)         // Vikash Kumar
     }
 }
-console.log(username)               // askash
+console.log(username)               // akash
 ```
 > [!NOTE]\
 > Variables declared using `var` can be accessible inside or outside of a blocks
@@ -294,7 +294,7 @@ console.log(true || true && !true)          // true
 ```
 > [!IMPORTANT]\
 > Precedence order of Logical Operators\
-> LOGICAL NOT(!) > LOGICAL AND (&&) > LOGICAL OR(||)
+> Logical NOT `(!)`> Logical AND `(&&)` > Logical OR `(||)`
 
 #### Unary Operator
 There are two types of Unary Operator-
