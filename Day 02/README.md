@@ -2,7 +2,7 @@
 # Getting Started🚀
 ## What's Inside🎁
 - [What is variable?](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#what-is-variable)
-- [Rules for nameing of a variable](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#rules-for-naming-of-a-variable)
+- [Rules for naming of a variable](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#rules-for-naming-of-a-variable)
 - [Code for data viewer](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#01-project--details-viewer)
 - [Difference between var and let & const](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#difference-between-var-and-let--const)
 - [Data Types](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2002#data-types)
