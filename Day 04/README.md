@@ -4,14 +4,15 @@ Today we will move to some advanced JavaScript.
 
 [Exercise Array](https://github.com/Ninja-Vikash/JavaScript-Collection/blob/main/README.md#exercise-array)
 ## What's Inside🎁
-- [**Loop**]()
+- [**Loop**](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2004#loop)
     - for loop
     - while loop
     - do-while loop
-- [**Array**]()
-    - [**Methods in Array**]()
-    - [**Special loops for Array**]()
-    - [**Advanced methods**]()
+    - [Project : Construct a table](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2004#03-project--construct-a-table)
+- [**Array**](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2004#array)
+    - [**Methods in Array**](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2004#methods-in-array)
+    - [**Special loops for Array**](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2004#special-loops-for-array)
+    - [**Advanced methods**](https://github.com/Ninja-Vikash/JavaScript-14Days/tree/main/Day%2004#advanced-method-in-array)
 
 ***
 ### Loop
@@ -61,6 +62,7 @@ do {
 ```
 > [!NOTE]\
 > In do-while loop, Checks the condition after executing. So What ever the condition it will execute once.
+
 > [!IMPORTANT]\
 > while and do-while loops don't have initializer and incrementor/decrementor\
 > So we have to declare them. If we don't error will occur.
