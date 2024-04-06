@@ -1,0 +1,113 @@
+@font-face {
+    font-family: poppins-regular;
+    src: url(./fonts/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: poppins-bold;
+    src: url(./fonts/Poppins-Bold.ttf);
+}
+
+* {
+  margin : 0;
+  padding : 0;
+  box-sizing : border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#main {
+    width: 70vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0px 20px 100px 5px grey;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    translate: 0px -50px;
+    font-family : poppins-bold;
+}
+
+#box {
+    margin-inline: auto;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    transition: all ease 1s;
+}
+
+.btn-area {
+    padding: 0px 100px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+
+button {
+    padding: 18px 15px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-family : poppins-regular;
+    cursor: pointer;
+    transition: ease 0.5s;
+}
+button:hover{
+    scale: 1.05;
+    transform: translateY(3px);
+    box-shadow: 0px 5px 20px 5px rgba(34, 34, 34, 0.264);
+}
+
+button:nth-child(1){
+    background-color: royalblue;
+}
+button:nth-child(2){
+    background-color: fuchsia;
+}
+button:nth-child(3){
+    background-color: crimson;
+}
+button:nth-child(4){
+    background-color: gold;
+}
+
+.custom {
+    margin-top:40px ;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.custom label {
+    font-size: 20px;
+    font-family: poppins-regular;
+}
+
+.custom input {
+    height: 40px;
+    width: 40px;
+    border: none;
+}
+
+.custom input:focus {
+    outline: none;
+}
