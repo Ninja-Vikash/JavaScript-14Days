@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Image Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Random Image Generator</h1>
+
+    <div id="interaction">
+        <input id="height" placeholder="height" type="number">
+        <input id="width" placeholder="width" type="number">
+        <button onclick={fetchData()}>Generate</button>
+        <p><span>Note</span>: All the size values in pixels </p>
+    </div>
+    <hr>
+    
+    <div id="container"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
